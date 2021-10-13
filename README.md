@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rama1094
-
-Nama  : Rama Saputra
-NIM   : 17.11.1094
+- Nama  : Rama Saputra
+- NIM   : 17.11.1094
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
